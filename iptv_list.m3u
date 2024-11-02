@@ -373,28 +373,6 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/32024060300263469184599487590
 https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 #EXTINF:-1 group-title="移动专网",凤凰资讯
 https://tv.sd.cn/sichuan?id=239.93.0.118:2191
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://124.228.160.228:9901/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV7
-http://222.241.154.37:9901/tsfile/live/23007_1.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://222.241.154.37:9901/tsfile/live/23030_1.m3u8
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://222.241.154.37:9901/tsfile/live/23039_1.m3u8
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://124.228.160.228:9901/tsfile/live/0127_1.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://124.228.160.228:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://124.228.160.228:9901/tsfile/live/0126_1.m3u8
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://222.241.154.37:9901/tsfile/live/23046_1.m3u8
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://222.241.154.37:9901/tsfile/live/23036_1.m3u8
-#EXTINF:-1 group-title="湖南频道",湖南娱乐
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 group-title="湖南频道",湖南爱晚
-http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰中文
 none
 #EXTINF:-1 group-title="港台频道",凤凰香港
@@ -4031,5 +4009,5 @@ https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTl
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 group-title="流金岁月",春晚2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="更新时间",2024-11-01 21:13:04
+#EXTINF:-1 group-title="更新时间",2024-11-02 09:12:33
 url
