@@ -388,13 +388,13 @@ none
 #EXTINF:-1 group-title="港台频道",番薯台
 none
 #EXTINF:-1 group-title="港台频道",翡翠台
-none
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰资讯
 none
 #EXTINF:-1 group-title="港台频道",民视
 none
 #EXTINF:-1 group-title="港台频道",明珠台
-none
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="港台频道",香港佛陀
 none
 #EXTINF:-1 group-title="港台频道",有线新闻台
@@ -412,7 +412,7 @@ none
 #EXTINF:-1 group-title="港台频道",大爱二台
 none
 #EXTINF:-1 group-title="港台频道",中天新闻台
-none
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="港台频道",中天综合
 none
 #EXTINF:-1 group-title="港台频道",中视新闻
@@ -4009,5 +4009,5 @@ https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTl
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 group-title="流金岁月",春晚2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="更新时间",2024-11-23 09:12:26
+#EXTINF:-1 group-title="更新时间",2024-11-23 21:11:33
 url
