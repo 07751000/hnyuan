@@ -374,6 +374,10 @@ https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 #EXTINF:-1 group-title="移动专网",凤凰资讯
 https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 #EXTINF:-1 group-title="央视频道",CCTV1
+http://119.125.104.49:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://113.64.94.171:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV1
 http://223.159.10.238:8099/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://119.125.104.49:9901/tsfile/live/1024_1.m3u8
@@ -382,9 +386,9 @@ http://223.159.10.238:8099/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://119.125.104.49:9901/tsfile/live/1025_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://223.159.10.238:8099/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV3
 http://113.64.94.171:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://223.159.10.238:8099/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://119.125.104.49:9901/tsfile/live/1026_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV4
@@ -406,17 +410,17 @@ http://113.64.94.171:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://223.159.10.238:8099/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://113.64.94.171:9901/tsfile/live/1022_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV7
 http://119.125.104.49:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV7
+http://113.64.94.171:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV7
 http://223.159.10.238:8099/tsfile/live/0007_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://119.125.104.49:9901/tsfile/live/1030_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://113.64.94.171:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://223.159.10.238:8099/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://119.125.104.49:9901/tsfile/live/1030_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://119.125.104.49:9901/tsfile/live/1031_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV9
@@ -432,17 +436,17 @@ http://223.159.10.238:8099/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://119.125.104.49:9901/tsfile/live/1034_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://223.159.10.238:8099/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV13
 http://113.64.94.171:9901/tsfile/live/1028_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV13
+http://223.159.10.238:8099/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13
 http://119.125.104.49:9901/tsfile/live/1035_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://119.125.104.49:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://223.159.10.238:8099/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://113.64.94.171:9901/tsfile/live/1029_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://119.125.104.49:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://119.125.104.49:9901/tsfile/live/1037_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV15
@@ -474,9 +478,9 @@ http://223.159.10.238:8099/tsfile/live/0119_1.m3u8
 #EXTINF:-1 group-title="卫视频道",兵团卫视
 http://119.125.104.49:9901/tsfile/live/1071_1.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://113.64.94.171:9901/tsfile/live/1065_1.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
 http://119.125.104.49:9901/tsfile/live/1063_1.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://113.64.94.171:9901/tsfile/live/1065_1.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://113.64.94.171:9901/tsfile/live/1050_1.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
@@ -490,9 +494,9 @@ http://119.125.104.49:9901/tsfile/live/1090_1.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://223.159.10.238:8099/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://113.64.94.171:9901/tsfile/live/1060_1.m3u8
-#EXTINF:-1 group-title="卫视频道",四川卫视
 http://119.125.104.49:9901/tsfile/live/1049_1.m3u8
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://113.64.94.171:9901/tsfile/live/1060_1.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://223.159.10.238:8099/tsfile/live/0123_1.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视
@@ -504,19 +508,19 @@ http://223.159.10.238:8099/tsfile/live/0135_1.m3u8
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://119.125.104.49:9901/tsfile/live/1055_1.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://119.125.104.49:9901/tsfile/live/1060_1.m3u8
-#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://113.64.94.171:9901/tsfile/live/1059_1.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://223.159.10.238:8099/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://119.125.104.49:9901/tsfile/live/1060_1.m3u8
 #EXTINF:-1 group-title="卫视频道",少儿卫视
 http://113.64.94.171:9901/tsfile/live/1032_1.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://119.125.104.49:9901/tsfile/live/1061_1.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://113.64.94.171:9901/tsfile/live/1063_1.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://223.159.10.238:8099/tsfile/live/0131_1.m3u8
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://119.125.104.49:9901/tsfile/live/1061_1.m3u8
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://119.125.104.49:9901/tsfile/live/1088_1.m3u8
 #EXTINF:-1 group-title="卫视频道",山西卫视
@@ -524,9 +528,9 @@ http://223.159.10.238:8099/tsfile/live/0118_1.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://119.125.104.49:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://113.64.94.171:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视
 http://223.159.10.238:8099/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://113.64.94.171:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://119.125.104.49:9901/tsfile/live/1044_1.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
@@ -534,27 +538,27 @@ http://223.159.10.238:8099/tsfile/live/0113_1.m3u8
 #EXTINF:-1 group-title="卫视频道",星空卫视
 http://113.64.94.171:9901/tsfile/live/1042_1.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://113.64.94.171:9901/tsfile/live/1046_1.m3u8
-#EXTINF:-1 group-title="卫视频道",江苏卫视
 http://119.125.104.49:9901/tsfile/live/1051_1.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
+http://113.64.94.171:9901/tsfile/live/1046_1.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
 http://223.159.10.238:8099/tsfile/live/0127_1.m3u8
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://113.64.94.171:9901/tsfile/live/1061_1.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://119.125.104.49:9901/tsfile/live/1048_1.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://223.159.10.238:8099/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://113.64.94.171:9901/tsfile/live/1061_1.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://119.125.104.49:9901/tsfile/live/1083_1.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://223.159.10.238:8099/tsfile/live/0117_1.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://113.64.94.171:9901/tsfile/live/1064_1.m3u8
-#EXTINF:-1 group-title="卫视频道",河南卫视
 http://119.125.104.49:9901/tsfile/live/1046_1.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://223.159.10.238:8099/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://113.64.94.171:9901/tsfile/live/1064_1.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://119.125.104.49:9901/tsfile/live/1047_1.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -578,19 +582,19 @@ http://223.159.10.238:8099/tsfile/live/0128_1.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://119.125.104.49:9901/tsfile/live/1041_1.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://223.159.10.238:8099/tsfile/live/0120_1.m3u8
-#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://113.64.94.171:9901/tsfile/live/1052_1.m3u8
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://223.159.10.238:8099/tsfile/live/0120_1.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://119.125.104.49:9901/tsfile/live/1056_1.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://223.159.10.238:8099/tsfile/live/0121_1.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://119.125.104.49:9901/tsfile/live/1058_1.m3u8
+http://113.64.94.171:9901/tsfile/live/1066_1.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://223.159.10.238:8099/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://113.64.94.171:9901/tsfile/live/1066_1.m3u8
+http://119.125.104.49:9901/tsfile/live/1058_1.m3u8
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://119.125.104.49:9901/tsfile/live/1064_1.m3u8
 #EXTINF:-1 group-title="卫视频道",陕西卫视
@@ -622,9 +626,9 @@ http://119.125.104.49:9901/tsfile/live/1054_1.m3u8
 #EXTINF:-1 group-title="港澳影视",星河
 http://113.64.94.171:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="港澳影视",翡翠台
-http://113.64.94.171:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="港澳影视",翡翠台
 http://119.125.104.49:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="港澳影视",翡翠台
+http://113.64.94.171:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="IPTV频道",IPTV野外
 http://119.125.104.49:9901/tsfile/live/1017_1.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南公共
@@ -650,9 +654,9 @@ http://223.159.10.238:8099/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://113.64.94.171:9901/tsfile/live/1033_1.m3u8
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
-http://119.125.104.49:9901/tsfile/live/1040_1.m3u8
-#EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://223.159.10.238:8099/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="湖南频道",金鹰卡通
+http://119.125.104.49:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://119.125.104.49:9901/tsfile/live/1065_1.m3u8
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
@@ -683,6 +687,8 @@ http://119.125.104.49:9901/tsfile/live/1100_1.m3u8
 http://119.125.104.49:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 group-title="其他频道",五华台
 http://119.125.104.49:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="其他频道",五华台
+http://113.64.94.171:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="其他频道",优漫卡通
 http://119.125.104.49:9901/tsfile/live/1067_1.m3u8
 #EXTINF:-1 group-title="其他频道",佳嘉卡通
@@ -698,9 +704,9 @@ http://113.64.94.171:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="其他频道",卡酷少儿
 http://119.125.104.49:9901/tsfile/live/1062_1.m3u8
 #EXTINF:-1 group-title="其他频道",哈哈炫动
-http://119.125.104.49:9901/tsfile/live/1050_1.m3u8
-#EXTINF:-1 group-title="其他频道",哈哈炫动
 http://113.64.94.171:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 group-title="其他频道",哈哈炫动
+http://119.125.104.49:9901/tsfile/live/1050_1.m3u8
 #EXTINF:-1 group-title="其他频道",国学
 http://119.125.104.49:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 group-title="其他频道",地理世界
@@ -4391,5 +4397,5 @@ https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTl
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 group-title="流金岁月",春晚2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="更新时间",2024-12-18 21:13:05
+#EXTINF:-1 group-title="更新时间",2024-12-19 09:15:55
 url
