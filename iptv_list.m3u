@@ -374,9 +374,9 @@ https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 #EXTINF:-1 group-title="移动专网",凤凰资讯
 https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 #EXTINF:-1 group-title="港台频道",凤凰中文
-http://www.erbao1981.top:8188/udp/239.76.246.135:1234
+http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://www.erbao1981.top:8188/udp/239.76.246.135:1234
 #EXTINF:-1 group-title="港台频道",凤凰香港
-none
+https://ali.hlspull.yximgs.com/live/diyp_fh3.flv#http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8#http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8#http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 #EXTINF:-1 group-title="港台频道",面包台
 none
 #EXTINF:-1 group-title="港台频道",点掌财经
@@ -386,11 +386,11 @@ none
 #EXTINF:-1 group-title="港台频道",澳门莲花
 none
 #EXTINF:-1 group-title="港台频道",番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="港台频道",翡翠台
-http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-#EXTINF:-1 group-title="港台频道",凤凰资讯
 none
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8#http://223.105.252.60/PLTV/3/224/3221228524/index.m3u8#http://123.157.31.182:7912/rtp/233.50.200.192:5140#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 #EXTINF:-1 group-title="港台频道",民视
 none
 #EXTINF:-1 group-title="港台频道",明珠台
@@ -398,7 +398,7 @@ none
 #EXTINF:-1 group-title="港台频道",香港佛陀
 none
 #EXTINF:-1 group-title="港台频道",有线新闻台
-none
+http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1 group-title="港台频道",TVBS 新闻
 none
 #EXTINF:-1 group-title="港台频道",TVB 星河
@@ -4009,5 +4009,5 @@ https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTl
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 group-title="流金岁月",春晚2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="更新时间",2025-01-10 21:12:09
+#EXTINF:-1 group-title="更新时间",2025-01-11 09:11:46
 url
