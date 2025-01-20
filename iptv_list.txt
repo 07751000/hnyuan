@@ -202,15 +202,15 @@ IPTV频道,#genre#
 其他频道,#genre#
 
 港台频道,#genre#
-凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$LR•IPV4『线路14』
-凤凰香港,http://www.lebaobei.top:6868/rtp/239.255.30.123:8231$LR•IPV4『线路46』
+凤凰中文,none
+凤凰香港,none
 面包台,none
 点掌财经,none
 TVBS 欢乐,none
 澳门莲花,none
 番薯台,none
 翡翠台,none
-凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191$LR•IPV4『线路42』#http://wouu.net:9977/udp/239.93.1.4:2191$LR•IPV4『线路43』
+凤凰资讯,none
 民视,none
 明珠台,none
 香港佛陀,none
@@ -2505,4 +2505,4 @@ X--未知的元素（英语）,https://vip1.lz-cdn1.com/20220417/2313_57accc19/i
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 更新时间,#genre#
-2025-01-19 21:10:46,url
+2025-01-20 09:14:00,url
