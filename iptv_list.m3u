@@ -374,9 +374,9 @@ https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 #EXTINF:-1 group-title="移动专网",凤凰资讯
 https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 #EXTINF:-1 group-title="港台频道",凤凰中文
-http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$LR•IPV4『线路14』
+none
 #EXTINF:-1 group-title="港台频道",凤凰香港
-http://www.lebaobei.top:6868/rtp/239.255.30.123:8231$LR•IPV4『线路46』
+none
 #EXTINF:-1 group-title="港台频道",面包台
 none
 #EXTINF:-1 group-title="港台频道",点掌财经
@@ -390,7 +390,7 @@ none
 #EXTINF:-1 group-title="港台频道",翡翠台
 none
 #EXTINF:-1 group-title="港台频道",凤凰资讯
-http://wouu.net:9977/udp/239.93.0.118:2191$LR•IPV4『线路42』#http://wouu.net:9977/udp/239.93.1.4:2191$LR•IPV4『线路43』
+none
 #EXTINF:-1 group-title="港台频道",民视
 none
 #EXTINF:-1 group-title="港台频道",明珠台
@@ -4009,5 +4009,5 @@ https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTl
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 group-title="流金岁月",春晚2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="更新时间",2025-01-19 21:10:46
+#EXTINF:-1 group-title="更新时间",2025-01-20 09:14:00
 url
